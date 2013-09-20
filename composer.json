@@ -1,7 +1,7 @@
 {
     "name": "dinhosting/nothingatall-composer",
     "type": "library",
-    "description": "Lib that do nothing",
+    "description": "Lib that doesn't do anything",
     "keywords": ["nothing"],
     "homepage": "https://github.com/laurentdh/nothingatall",
     "license": "MIT",
