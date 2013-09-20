@@ -1,0 +1,21 @@
+{
+    "name": "dinhosting/nothingatall-composer",
+    "type": "library",
+    "description": "Lib that do nothing",
+    "keywords": ["nothing"],
+    "homepage": "https://github.com/laurentdh/nothingatall",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent DOLOSOR",
+            "email": "laurent@dinhosting.fr",
+            "homepage": "http://www.dinhosting.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+    }
+}
